@@ -130,7 +130,8 @@ Make sure this box is checked
 
 <p>
 Check this box to ensure that these are deleted also when you delete everything to ensure that you won’t be accumulating charges.
-Click Create
+
+  Click Create
 </p>
 
 
