@@ -182,35 +182,35 @@ Location
 Resource Group
 </p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cbFYH84.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
 If you’re using a MAC download Microsoft Remote Desktop from the Appstore
 </p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uaiMkpd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
 Click Add PC
 </p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ihMXrsm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
 Enter the Public IP Address from your first Virtual Machine
 </p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lvQrWv4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
 Click Add in Microsoft Remote Desktop App
 </p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GsSQn49.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
@@ -226,7 +226,7 @@ You will see this popup
 Click Continue
 </p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kA1wM0P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
