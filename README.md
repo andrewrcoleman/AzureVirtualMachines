@@ -130,14 +130,9 @@ Make sure this box is checked
 
 <p>
 Check this box to ensure that these are deleted also when you delete everything to ensure that you won’t be accumulating charges.
-</p>
-
-<img src="https://i.imgur.com/Kg3RQQJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-<p>
 Click Create
 </p>
+
 
 <img src="https://i.imgur.com/2d9DQZY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
