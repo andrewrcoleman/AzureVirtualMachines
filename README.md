@@ -317,18 +317,18 @@ Click Finish
 Open Wireshark and click Ethernet
 </p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/h11Q1AC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
 Then click the blue fin at the top left
 </p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jsiDntX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Xe6kLRM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Y0ommgH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
