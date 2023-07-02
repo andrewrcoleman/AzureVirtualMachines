@@ -13,10 +13,9 @@ This tutorial outlines the prerequisites and installation of two Virtual Machine
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Microsoft Remote Desktop
 - WireShark
-- Windows 10
-- Ubuntu
+  
 
 <h2>Operating Systems Used </h2>
 
