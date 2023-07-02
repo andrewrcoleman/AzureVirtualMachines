@@ -174,8 +174,11 @@ Click Create
 
 <p>
 Double-check both Virtual Machines to make sure that the following are the same:
+
 Virtual Network
+
 Location
+
 Resource Group
 </p>
 
