@@ -3,7 +3,7 @@
 </p>
 
 <h1>Virtual Machines - Creating & Deployment using Microsoft Azure</h1>
-This tutorial outlines the  installation steps of deploying two Virtual Machines in Microsoft Azure and pinging them to communicate with each other.<br />
+This tutorial outlines the  installation steps of creating and deploying two Virtual Machines in Microsoft Azure and pinging them to communicate with each other.<br />
 
 
 <h2>Video Demonstration</h2>
