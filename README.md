@@ -3,7 +3,7 @@
 </p>
 
 <h1>Virtual Machines - Creating & Deployment using Microsoft Azure</h1>
-This tutorial outlines the prerequisites and installation of two Virtual Machines in Microsoft Azure and pinging them to communicate with each other.<br />
+This tutorial outlines the  installation steps of deploying two Virtual Machines in Microsoft Azure and pinging them to communicate with each other.<br />
 
 
 <h2>Video Demonstration</h2>
@@ -21,13 +21,7 @@ This tutorial outlines the prerequisites and installation of two Virtual Machine
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
 
 <h2>Installation Steps</h2>
 
