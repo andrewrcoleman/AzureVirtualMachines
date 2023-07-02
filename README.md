@@ -6,9 +6,6 @@
 This tutorial outlines the  installation steps of creating and deploying two Virtual Machines in Microsoft Azure and pinging them to communicate with each other.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
