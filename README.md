@@ -73,21 +73,21 @@ Go back into Resource Groups to ensure that the Resource Group you just created 
 Click Virtual Machines 
 </p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/v8faFsZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
 Click Create Azure Virtual Machine
 </p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/o8EeRJo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
 Under Resource Group Select the Resource Group that you just created a few moments ago.
 </p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Aq7NtFd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
@@ -96,36 +96,36 @@ Choose the region (**Remember it has to be the same as the Resource Group you cr
 Click the drop-down menu next to Security Type and select “Standard”
 </p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/F2b16Ki.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
-For this example we are setting up the first Virtual Machine using Windows 10
+For this example, we are setting up the first Virtual Machine using Windows 10
 Select Windows 10
 </p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oIwwSBq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
 Create an administrator account (Write this down on a notepad you will need this to log into your Virtual Machine)
 </p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TB9X1Gl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
 Ensure that RDP 3389 is selected next to “Select inbound ports” (This will probably already be preselected for you)
 </p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vqjqM91.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
 Make sure this box is checked
 </p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LZXCcBz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
