@@ -23,7 +23,7 @@ This tutorial outlines the  installation steps of creating and deploying two Vir
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/WQ3rhfs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VHqUDzw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Click  Resource Group
